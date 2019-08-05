@@ -1,2 +1,7 @@
 Apple Pie
-cheesecake
+pastry
+butter
+flour
+sugar
+apples
+cinnamon
